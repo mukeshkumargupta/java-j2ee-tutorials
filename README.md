@@ -6,3 +6,7 @@ Under this project user will able to submit his profile. Any user can send messa
 2. design-online-shopping-cart
 
 This is an online shopping project using Spring MVC, Hibernate, Maven, Angular JS and Bootstrap. This project is done Step By Step. For more in details refer link: https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/design-online-shopping-cart/Project_Steps.txt.
+
+3. java-interview-questions-answers
+
+This is an java all type of question with answers https://github.com/mukeshkumargupta/java-j2ee-tutorials/blob/master/java-interview-questions-answers/readme.md.
